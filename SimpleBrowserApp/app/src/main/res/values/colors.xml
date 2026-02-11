@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F6F5FB</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card2">#FFF7F0</color>
+    <color name="card3">#F1FAF6</color>
+    <color name="stroke">#E7E4F3</color>
+    <color name="textPrimary">#1F1B2E</color>
+    <color name="textSecondary">#6A637A</color>
+    <color name="textHint">#9B94AA</color>
+    <color name="accent">#8B7CF6</color>
+    <color name="inputBg">#F1EEFF</color>
+    <color name="panelBg">#FFFFFFFF</color>
+    <color name="strokeSoft">#E7E7EE</color>
+    <color name="iconPillBg">#F2F3FF</color>
+
+</resources>

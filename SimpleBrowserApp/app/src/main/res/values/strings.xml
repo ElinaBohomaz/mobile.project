@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Browser</string>
+
+    <string name="main_subtitle">Навчальний проєкт · Богомаз Еліна · група 44</string>
+
+    <string name="card_open_browser">Відкрити браузер</string>
+    <string name="card_open_browser_desc">Перегляд вебсторінок, пошук та навігація</string>
+
+    <string name="card_history">Історія переглядів</string>
+    <string name="card_history_desc">Список відвіданих сторінок і керування ними</string>
+
+    <string name="card_exit">Вийти з програми</string>
+
+    <string name="hint_url">Введіть адресу сайту або пошуковий запит</string>
+    <string name="loading">Завантаження…</string>
+
+    <string name="tab_browser">Браузер</string>
+    <string name="tab_bookmarks">Закладки</string>
+    <string name="tab_quick_history">Швидка історія</string>
+
+    <string name="history_title">Історія переглядів</string>
+    <string name="history_empty">Історія переглядів порожня</string>
+
+    <string name="badge_bookmark">Закладка</string>
+    <string name="badge_history">Історія</string>
+
+    <string name="btn_go">GO</string>
+    <string name="btn_history_short">H</string>
+    <string name="btn_clear">Очистити</string>
+
+    <string name="icon_back">←</string>
+    <string name="icon_forward">→</string>
+    <string name="icon_refresh">⟳</string>
+    <string name="icon_star">★</string>
+
+    <string name="history_count_zero">Збережено сторінок: 0</string>
+    <string name="history_count_fmt">Збережено сторінок: %1$d</string>
+
+</resources>
